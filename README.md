@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aroop Pradhan
 
-🎓 3rd-year B.Tech student at Manipal University Jaipur  
+🎓 Final-year B.Tech student at Manipal University Jaipur  
 💻 Budding **Full-Stack Developer** | Exploring **AI Engineering**  
 🛠️ Currently building a **Social Scraper** to collect and analyze content across platforms  
 🌱 Learning and growing in **Backend Development**, **Data Collection**, and **Analysis**
