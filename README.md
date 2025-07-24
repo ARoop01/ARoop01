@@ -35,7 +35,7 @@
 
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📨 Mail me: aroop.your-email@example.com  
+- 📨 Mail me: arooppradhan01@gmail.com  
 
 ---
 
